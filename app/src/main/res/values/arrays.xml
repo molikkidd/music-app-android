@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<integer-array name="random_images">
+		<item>@mipmap/wizkid_foreground</item>
+		<item>@mipmap/drake_foreground</item>
+		<item>@mipmap/davido_foreground</item>
+		<item>@mipmap/burnaboy_foreground</item>
+		<item>@mipmap/koffee_foreground</item>
+		<item>@mipmap/edsheeran_foreground</item>
+		<item>@mipmap/ic_launcher</item>
+		<item>@mipmap/klamar_foreground</item>
+		<item>@mipmap/sza_foreground</item>
+		<item>@mipmap/tiwasavage_foreground</item>
+	</integer-array>
+</resources>

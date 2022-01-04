@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="songs">My Songs</string>
+    <string name="profile">Profile</string>
+    <string name="next">Next</string>
+    <string name="prev">Prev</string>
+</resources>
